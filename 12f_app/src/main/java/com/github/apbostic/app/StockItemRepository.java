@@ -7,5 +7,4 @@ import com.github.apbostic.app.domain.model.StockItem;
 
 public interface StockItemRepository extends CrudRepository<StockItem, Long> {
     List<StockItem> findByType(ItemType type);
-    /* hello */
 }

@@ -1,6 +1,9 @@
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\domain\model\StockItem.java
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\domain\model\ItemType.java
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\StockItemRepository.java
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\App.java
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\StockResource.java
-C:\Users\sasapb\12f_app\src\main\java\com\github\apbostic\app\StockSpringBootStarter.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\StockSpringBootStarter.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\StockItemRepository.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\SecuredResource.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\SecurityConfig.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\domain\model\ItemType.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\StockResource.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\LogoutResource.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\domain\model\StockItem.java
+C:\Users\sasapb\cloud-native-workshop\12f_app\src\main\java\com\github\apbostic\app\App.java
