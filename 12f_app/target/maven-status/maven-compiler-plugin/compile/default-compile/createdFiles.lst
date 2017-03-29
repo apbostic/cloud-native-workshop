@@ -1,0 +1,6 @@
+com\github\apbostic\app\domain\model\StockItem.class
+com\github\apbostic\app\StockItemRepository.class
+com\github\apbostic\app\App.class
+com\github\apbostic\app\domain\model\ItemType.class
+com\github\apbostic\app\StockResource.class
+com\github\apbostic\app\StockSpringBootStarter.class
